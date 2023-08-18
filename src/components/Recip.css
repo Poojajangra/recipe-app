@@ -1,0 +1,30 @@
+.recipemain{
+    width: 25rem;
+    border: 2px solid pink;
+    margin:20px;
+    height: 35rem;
+    justify-content: center;
+    text-align: center;
+    overflow-y: scroll;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+
+.recp_image{
+    width:18rem;
+    height:15rem;
+    margin-top:1.5rem; 
+    border-radius: 1.5rem;
+}
+
+.recipe_title{
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.recipe_cal{
+    font-size: medium;
+    font-weight: 600;
+}
+
+
+
